@@ -1,17 +1,17 @@
 ## Designer and enthusiastic programmer
 
-You can use the [editor on GitHub](https://github.com/max880429/maxcodeportfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-### Skills
+You can use the [On GitHub](https://github.com/max880429) to maintain and preview the content for your website in Markdown files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
+These are some of my knowledge!
 
 ```markdown
 Discovering the art of programming
 
 
-# Header 1
-## Header 2
-### Header 3
+# Css, Sass
+## Ruby on Rails
+### JavaScipt
 
 - Bulleted
 - List
