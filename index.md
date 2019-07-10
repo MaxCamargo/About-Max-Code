@@ -1,12 +1,13 @@
 ## Designer and enthusiastic programmer
 
 You can use the [editor on GitHub](https://github.com/max880429/maxcodeportfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-### Markdown
+### Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Discovering the art of programming
+
 
 # Header 1
 ## Header 2
