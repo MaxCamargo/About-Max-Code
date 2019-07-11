@@ -19,12 +19,14 @@ Css
 
 Sass
 
-___
+
 
 ## Frameworks like:
+---
+
 Bootstrap - Materialize - Material Design for Bootstrap
 
----
+
 
 ### programming languages:
 
@@ -34,7 +36,7 @@ Ruby on Rails
 
 JavaScript
 
-***
+
 
 
 ### Max Senior Graphic Designer
