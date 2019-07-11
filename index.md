@@ -63,4 +63,4 @@ About Design.
 > **Senior Designer** with **8 years of experience in the digital media**, specialist in branding, brand development and editorial design (Books and magazines).
 ### Support or Contact
 
-Having any cuenstion? Check out my web site [Information]() or [contact support]()
+Having any cuenstion? Check out my web site [Information](https://www.behance.net/maxcamargo) or [contact support]()
