@@ -1,5 +1,6 @@
 Max Camargo
 -------------
+Passionate about **web design and development** with more than 3 years of experience in UX & UI design for the development of applications and web pages. 
 
 ## Designer and enthusiastic programmer
 
@@ -49,7 +50,7 @@ Ruby On rails
 
 JavaScript
 ```javascript
-// It's basic, but very important
+// Learning basic, but very important
 var learning = "JavaScript"
 alert(learning);
 ```
@@ -59,8 +60,7 @@ alert(learning);
 ### Max Senior Graphic Designer
 
 About Design.
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-
+> **Senior Designer** with **8 years of experience in the digital media**, specialist in branding, brand development and editorial design (Books and magazines).
 ### Support or Contact
 
-Having any cuenstion? Check out my web site [Information](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any cuenstion? Check out my web site [Information]() or [contact support]()
