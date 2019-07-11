@@ -1,12 +1,16 @@
+Max Camargo
+-------------
+
 ## Designer and enthusiastic programmer
+
 ```javascript
-// In code we trust :), Yhas a cliche!
+// In code we trust :), Yhas a cliché!
 var max = "Hello There!"
 alert(max);
 ```
 
 ### Skills(documentation)
-These are some [of my knowledge][1]!
+These are some of my knowledge!
 
 ```
 + Discovering the art of programming
@@ -44,6 +48,7 @@ Ruby On rails
 ---
 
 JavaScript
+```javascript
 // It's basic, but very important
 var learning = "JavaScript"
 alert(learning);
@@ -51,7 +56,7 @@ alert(learning);
 
 
 
-### [Max][1] Senior Graphic Designer
+### Max Senior Graphic Designer
 
 About Design.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
