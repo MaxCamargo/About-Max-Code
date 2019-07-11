@@ -2,31 +2,28 @@
 
 You can use the [On GitHub](https://github.com/max880429) to maintain and preview the content for your website in Markdown files.
 
-### Skills
+### Skills (documentation)
 These are some of my knowledge!
 
 ```markdown
 Discovering the art of programming
+###FrontEnd
+- Html
+- Css
+- Sass
+Frameworks like:
+- Boostrao
+- Materialize
+- Material Design for Bootstrap
 
+###programming languages:
+- Ruby on Rails
+- JavaScript
 
-# Css, Sass
-## Ruby on Rails
-### JavaScipt
+[WebSite](https://github.com/max880429)
+Work Design [GitHub Flavored Markdown](https://github.com/max880429).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Max Senior Graphic Designer
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/max880429/maxcodeportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
