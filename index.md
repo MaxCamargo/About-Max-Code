@@ -1,10 +1,16 @@
 ## Designer and enthusiastic programmer
-
-In code we trust :), Yhas a cliche!
+```javascript
+// In code we trust :), Yhas a cliche!
+var max = "Hello There!"
+alert(max);
+```
 
 ### Skills(documentation)
 These are some of my knowledge!
-Discovering the art of programming
+
+```
++ Discovering the art of programming
+```
 
 ### FrontEnd
 ---
