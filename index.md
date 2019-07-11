@@ -1,7 +1,7 @@
 
 Max Camargo  :computer:
 -------------
-Passionate about **web design and development** with more than 3 years of experience in UX & UI design for the development of applications and web pages. 
+Passionate about **Front web design and development** with more than 3 years of experience in UX & UI design for the development of applications and web pages. 
 
 ## Designer and enthusiastic programmer
 
@@ -58,10 +58,10 @@ alert(learning);
 
 
 
-### Max Senior Graphic Designer
+### Senior Graphic Designer :notebook:
 
 About Design.
-> **Senior Designer** with **8 years of experience in the digital media**, specialist in branding, brand development and editorial design (Books and magazines).
+> :moyai: **Senior Designer** with **8 years of experience in digital media**, specialist in branding, brand development and editorial design (Books and magazines).
 ### Support or Contact
 
 Having any cuenstion? Check out my web site [Information](https://www.behance.net/maxcamargo) or [contact support]()
