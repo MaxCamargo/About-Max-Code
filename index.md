@@ -2,7 +2,7 @@
 
 In code we trust :), Yhas a cliche!
 
-### Skills (documentation)
+### Skills(documentation)
 These are some of my knowledge!
 Discovering the art of programming
 
@@ -25,8 +25,10 @@ Boostrap
 
 ***
 
+Material Design for Bootstrap
 
-### FrontEnd
+
+### leguajes de programación
 ---
 
 Ruby On rails
