@@ -1,10 +1,5 @@
-charset -> utf-8
-meta -> viewport -> width=device-width, initial-scale=1
-link -> stylesheet -> index.css
-title -> Hello, World!
 
-
-Max Camargo
+Max Camargo  :computer:
 -------------
 Passionate about **web design and development** with more than 3 years of experience in UX & UI design for the development of applications and web pages. 
 
