@@ -22,7 +22,7 @@ Sass
 ___
 
 ## Frameworks like:
-- Bootstrap - Materialize - Material Design for Bootstrap
+Bootstrap - Materialize - Material Design for Bootstrap
 
 ---
 
