@@ -6,7 +6,7 @@ alert(max);
 ```
 
 ### Skills(documentation)
-These are some of my knowledge!
+These are some [of my knowledge][1]!
 
 ```
 + Discovering the art of programming
@@ -27,12 +27,14 @@ Sass
 
 ---
 
-Boostrap
+```
++ Bootstrap
+```
 
 ***
-
-Material Design for Bootstrap
-
+```
++ Material Design for Bootstrap
+```
 
 ### leguajes de programación
 ---
@@ -42,10 +44,14 @@ Ruby On rails
 ---
 
 JavaScript
+// It's basic, but very important
+var learning = "JavaScript"
+alert(learning);
+```
 
 
 
-### Max Senior Graphic Designer
+### [Max][1] Senior Graphic Designer
 
 About Design.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
