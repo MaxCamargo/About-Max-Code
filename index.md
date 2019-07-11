@@ -19,23 +19,21 @@ Css
 
 Sass
 
-
-
-## Frameworks like:
 ---
 
-Bootstrap - Materialize - Material Design for Bootstrap
+Boostrap
+
+***
 
 
+### FrontEnd
+---
 
-### programming languages:
-
-Ruby on Rails
+Ruby On rails
 
 ---
 
 JavaScript
-
 
 
 
