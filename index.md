@@ -4,28 +4,39 @@ You can use the [On GitHub](https://github.com/max880429) to maintain and previe
 
 ### Skills (documentation)
 These are some of my knowledge!
-
-```markdown
 Discovering the art of programming
 ###FrontEnd
-- Html
-- Css
-- Sass
-Frameworks like:
-- Boostrao
-- Materialize
-- Material Design for Bootstrap
+
+html
+
+---
+
+Css
+
+***
+
+Sass
+
+___
+
+##Frameworks like: - Bootstrap - Materialize - Material Design for Bootstrap
+
 
 ###programming languages:
-- Ruby on Rails
-- JavaScript
 
-[WebSite](https://github.com/max880429)
-Work Design [GitHub Flavored Markdown](https://github.com/max880429).
+Ruby on Rails
+
+---
+
+JavaScript
+
+***
+
 
 ### Max Senior Graphic Designer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/max880429/maxcodeportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Quote break.
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 ### Support or Contact
 
