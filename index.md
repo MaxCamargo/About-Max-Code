@@ -41,7 +41,7 @@ Sass
 + Material Design for Bootstrap
 ```
 
-### leguajes de programación
+## Programming languages
 ---
 
 Ruby On rails
