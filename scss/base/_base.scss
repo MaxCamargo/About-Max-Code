@@ -1,0 +1,29 @@
+/* Colors*/
+
+$primaryColor: #380382;
+$secondaryColor: #F9F5FF;
+$redDark: #ED0551;
+$blueDark: #7EE8ED;
+$white: #FFF;
+
+/* Bottons */
+
+/* Fonts */
+$fontFamily: 'roboto';
+
+/* Radius */
+$radius: 60px;
+
+h1{
+    color: $white;
+    font-family: $fontFamily;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+p{
+    color: $white;
+    font-family: $fontFamily;
+    font-weight: 200; 
+    font-size: 1rem;
+}
