@@ -32,7 +32,7 @@ p {
 .m1 {
   grid-area: 2/4/6/7;
   box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-  background-image: url("/images/blank-business-composition-computer-373076.jpg");
+  background-image: url("../images/blank-business-composition-computer-373076.jpg");
   background-size: cover;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -63,7 +63,7 @@ p {
 .m2 {
   grid-area: 3/6/7/8;
   box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-  background-image: url("/images/business-code-coding-computer-270360.jpg");
+  background-image: url("../images/business-code-coding-computer-270360.jpg");
   background-size: cover;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -186,7 +186,7 @@ p {
   .m1 {
     grid-area: 3/2/5/4;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/blank-business-composition-computer-373076.jpg");
+    background-image: url("../images/blank-business-composition-computer-373076.jpg");
     background-size: cover;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -198,7 +198,7 @@ p {
   .m2 {
     grid-area: 4/3/6/6;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/business-code-coding-computer-270360.jpg");
+    background-image: url("../images/business-code-coding-computer-270360.jpg");
     background-size: cover;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -276,12 +276,13 @@ p {
   .m1 {
     grid-area: folio;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/blank-business-composition-computer-373076.jpg");
+    background-image: url("../images/blank-business-composition-computer-373076.jpg");
     background-size: cover;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: repeat(12, 1fr);
     z-index: 300;
+    margin:0;
   }
   .m1 .btn1 {
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
@@ -307,11 +308,12 @@ p {
   .m2 {
     grid-area: api2;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/business-code-coding-computer-270360.jpg");
+    background-image: url("../images/business-code-coding-computer-270360.jpg");
     background-size: cover;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: repeat(12, 1fr);
+    margin:0;
   }
   .m2 .btn1 {
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
