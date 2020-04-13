@@ -11,7 +11,7 @@ h1 {
 
 p {
   color: #FFF;
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-weight: 200;
   font-size: 1rem;
 }
@@ -53,7 +53,7 @@ p {
 }
 .m1 .btn1 a {
   color: #FFF;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   list-style-type: none;
   text-decoration: none;
@@ -84,7 +84,7 @@ p {
 }
 .m2 .btn1 a {
   color: #FFF;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   list-style-type: none;
   text-decoration: none;
@@ -118,7 +118,7 @@ p {
 
 .fluid-behind {
   color: #FFF;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   text-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
   text-transform: uppercase;
   font-size: 150px;
@@ -226,7 +226,7 @@ p {
 
   .fluid-behind {
     color: #FFF;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     text-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
     text-transform: uppercase;
     font-size: 110px;
@@ -298,7 +298,7 @@ p {
   }
   .m1 .btn1 a {
     color: #FFF;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     list-style-type: none;
     text-decoration: none;
@@ -330,7 +330,7 @@ p {
   }
   .m2 .btn1 a {
     color: #FFF;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     list-style-type: none;
     text-decoration: none;
@@ -371,7 +371,7 @@ p {
 
   .fluid-behind {
     color: #FFF;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
     text-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
     text-transform: uppercase;
     font-size: 50px;
