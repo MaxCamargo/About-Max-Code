@@ -78,7 +78,7 @@ p {
   grid-area: 2/4/5/6;
   -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-  background-image: url("/images/blank-business-composition-computer-373076.jpg");
+  background-image: url("../images/blank-business-composition-computer-373076.jpg");
   background-size: cover;
   display: -ms-grid;
   display: grid;
@@ -126,7 +126,7 @@ p {
   grid-area: 2/7/5/9;
   -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-  background-image: url("/images/business-code-coding-computer-270360.jpg");
+  background-image: url("../images/business-code-coding-computer-270360.jpg");
   background-size: cover;
   display: -ms-grid;
   display: grid;
@@ -176,7 +176,7 @@ p {
   grid-area: 4/5/7/8;
   -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-  background-image: url("/images/person-using-macbook-pro-3861964.jpg");
+  background-image: url("../images/person-using-macbook-pro-3861964.jpg");
   background-size: cover;
   display: -ms-grid;
   display: grid;
@@ -367,7 +367,7 @@ p {
     grid-area: 3/2/5/4;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/blank-business-composition-computer-373076.jpg");
+    background-image: url("../images/blank-business-composition-computer-373076.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
@@ -386,7 +386,7 @@ p {
     grid-area: 4/3/6/6;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/business-code-coding-computer-270360.jpg");
+    background-image: url("../images/business-code-coding-computer-270360.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
@@ -404,7 +404,7 @@ p {
     grid-area: 3/5/5/8;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/person-using-macbook-pro-3861964.jpg");
+    background-image: url("../images/person-using-macbook-pro-3861964.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
@@ -514,7 +514,7 @@ p {
     grid-area: folio;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/blank-business-composition-computer-373076.jpg");
+    background-image: url("../images/blank-business-composition-computer-373076.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
@@ -558,7 +558,7 @@ p {
     grid-area: api2;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/business-code-coding-computer-270360.jpg");
+    background-image: url("../images/business-code-coding-computer-270360.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
@@ -603,7 +603,7 @@ p {
     grid-area: api3;
     -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
             box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
-    background-image: url("/images/computer-desk-electronics-keyboard-238118.jpg");
+    background-image: url("../images/computer-desk-electronics-keyboard-238118.jpg");
     background-size: cover;
     display: -ms-grid;
     display: grid;
